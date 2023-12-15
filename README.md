@@ -1,7 +1,9 @@
 In this project, I will use **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly, GeoPandas)** to analyze the sales and profit data of a retailer, Superstore. The goal of this project is to help Superstore understand what works best for them and what they should improve or change. The following key questions will be answered:
 
 **1. What are the sales trends over time?**
+
 **2. How do sales and profit vary across categories, regions, and customer segments?**
+
 **3. Which profitable and unprofitable products should Superstore keep or remove from its portfolio?**
 
 This project uses a dataset of 9994 rows and 21 columns that contains sales and profit information of Superstore. The dataset is available on Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), and the columns are described below:
