@@ -8,8 +8,8 @@ In this project, I will use **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
 This project uses a dataset of 9994 rows and 21 columns that contains sales and profit information of Superstore. The dataset is available on Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final), and the columns are described below:
 
-Row ID: A unique identifier for each row in the dataset
-Order ID: A unique identifier for each customer order
+- Row ID: A unique identifier for each row in the dataset
+- Order ID: A unique identifier for each customer order
 - Order Date: The date when the order was placed
 - Ship Date: The date when the order was shipped
 - Ship Mode: The shipping method chosen by the customer
